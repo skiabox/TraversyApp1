@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "requireConfig": true,
+  "disableLanguages": ["js"],
+  "jsxSingleQuote": true,
+  "tabWidth": 2
+}
